@@ -1,0 +1,12 @@
+name: shyniR
+title: shyniR
+username: pamelamanasaya
+account: pamelamanasaya
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13592273
+bundleId: 9515991
+url: https://pamelamanasaya.shinyapps.io/shyniR/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
